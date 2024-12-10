@@ -9,4 +9,4 @@ Student
 
 
 ### Projects
-##### Android: LetStudy [GitHUb Page](https://github.com/spamshot/LetStudy)
+##### Android: LetStudy [GitHub Page](https://github.com/spamshot/LetStudy)
