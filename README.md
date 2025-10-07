@@ -17,7 +17,7 @@ Student
 ### Live apps
 
 
-##### https://play.google.com/store/apps/details?id=com.spam.ratingdemo
+##### Scan It Rate It [Google Play](https://play.google.com/store/apps/details?id=com.spam.ratingdemo)
 ##### BabyTracker [Google Play](https://play.google.com/store/apps/details?id=com.spam.babytracker)
 
 
