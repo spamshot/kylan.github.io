@@ -14,7 +14,7 @@ Student
 ##### Android Airsoft Bomb Timer [GitHub Page](https://github.com/spamshot/RandomBomb)
 
 
-### Live apps
+### Live Android Apps
 
 
 ##### Scan It Rate It [Google Play](https://play.google.com/store/apps/details?id=com.spam.ratingdemo)
