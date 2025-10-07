@@ -18,7 +18,7 @@ Student
 
 
 ##### https://play.google.com/store/apps/details?id=com.spam.ratingdemo
-##### https://play.google.com/store/apps/details?id=com.spam.babytracker
+##### BabyTracker [Google Play](https://play.google.com/store/apps/details?id=com.spam.babytracker)
 
 
 
