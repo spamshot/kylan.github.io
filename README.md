@@ -9,8 +9,8 @@ Student
 
 
 ### Projects
-##### Android: LetStudy [GitHub Page Study](https://github.com/spamshot/LetStudy)
-##### Android: AramyRankTest [GitHub Page Army](https://github.com/spamshot/ArmyRankTest)
+##### Android: LetStudy [GitHub Page](https://github.com/spamshot/LetStudy)
+##### Android: AramyRankTest [GitHub Page](https://github.com/spamshot/ArmyRankTest)
 ##### Android: Airsoft Bomb Timer [GitHub Page](https://github.com/spamshot/RandomBomb)
 ##### Android: Buzzer Game [GitHub Page](https://github.com/spamshot/BuzzerGame)
 
